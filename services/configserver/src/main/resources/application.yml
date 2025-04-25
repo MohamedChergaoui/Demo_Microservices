@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: native
+  application:
+   name: config-server
+  cloud:
+    server:
+      native:
+        serach-locatiion
+server:
+  port: 8080
+
