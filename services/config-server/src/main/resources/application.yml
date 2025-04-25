@@ -6,7 +6,7 @@ spring:
   cloud:
     server:
       native:
-        serach-locatiion
+        serach-locatiions: classpath:/cofigurations
 server:
-  port: 8080
+  port: 8888
 
